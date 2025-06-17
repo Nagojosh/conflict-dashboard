@@ -3,6 +3,14 @@
 
 A project to visualize major geopolitical conflicts through an interactive dashboard interface that shows curated sources.
 
+![image](https://github.com/user-attachments/assets/71577c2c-6026-409e-8b2a-b0c2208f53a6)
+![image](https://github.com/user-attachments/assets/9f49f60f-0c41-4ced-ba15-453b3e04757d)
+Hopeful Future Editions:
+![image](https://github.com/user-attachments/assets/540739fa-10b8-455e-8359-273959638552)
+
+
+
+
 Project Goal:
 - Build a modular, expandable conflict tracking tool where users can:
   - Select a region such Yemen or Ukraine
