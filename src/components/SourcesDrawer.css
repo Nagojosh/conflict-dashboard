@@ -1,0 +1,43 @@
+.sources-drawer {
+  position: fixed;
+  bottom: 100px;
+  right: 20px;
+  width: 260px;
+  padding: 16px;
+  background: #fff;
+  border: 1px solid #ccc;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: transform 0.3s ease-in-out;
+  transform: translateY(100%);
+}
+
+.sources-drawer.open {
+  transform: translateY(0);
+}
+
+.sources-drawer button {
+  background-color: #1976d2;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.sources-drawer ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.sources-drawer li {
+  padding: 6px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.sources-drawer li:hover {
+  color: #1976d2;
+}

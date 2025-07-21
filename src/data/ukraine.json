@@ -1,0 +1,20 @@
+[
+    {
+        "title": "President speaks on Ukraine Conflict",
+        "source": "Washington Post",
+        "date": "2025-06-07",
+        "link": "https://example.com"
+    },
+    {
+        "title": "Russian Offensive Campaign Assesment, July 18, 2025",
+        "source": "ISW",
+        "date": "2025-07-18",
+        "link": "https://example.com"
+    },
+    {
+        "title": "The Next Phase of the Ukraine Conflict",
+        "source": "BBC",
+        "date": "2025-07-07",
+        "link": "https://example.com"
+    }
+]
